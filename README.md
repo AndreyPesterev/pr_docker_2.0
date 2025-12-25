@@ -29,6 +29,6 @@
 
 
 # Задание 5
-<img width="1241" height="511" alt="image" src="https://github.com/user-attachments/assets/fe476c14-d452-492a-994e-fa4791a729cb" />
+<img width="1280" height="674" alt="image" src="https://github.com/user-attachments/assets/15c12cca-0e6e-4b81-adac-59ddb38d1917" />
 
 
